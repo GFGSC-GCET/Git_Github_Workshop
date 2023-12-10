@@ -1,5 +1,14 @@
 # Welcome to GFGSC-GCET Git & Github Workshop
 
+## Fun task for you
+
+    1. Fork this repository
+    2. Clone the forked repository on your local machine
+    3. Create a new branch with your name
+    4. Edit index.html file and add your profile
+    5. commit and sync the changes to your forked repository
+    6. Create a pull request to the original repository
+
 ## What is Git?
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
