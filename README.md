@@ -1,4 +1,4 @@
-#Welcome to GFGSC-GCET Git & Github Workshop
+# Welcome to GFGSC-GCET Git & Github Workshop
 
 ## What is Git?
 
